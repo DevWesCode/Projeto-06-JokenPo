@@ -22,6 +22,11 @@ Este projeto faz parte do meu processo de aprendizado em desenvolvimento. O foco
 - **JavaScript** — lógica do jogo e interatividade  
 
 ---
+## 📷 Captura de Tela
+
+![image](https://github.com/user-attachments/assets/94aad0fd-03d4-47fd-93f0-287cce47f311)
+
+---
 
 ## ⚙️ Funcionalidades
 
